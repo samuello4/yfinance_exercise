@@ -7,6 +7,5 @@ voila
 plotly
 ipywidgets
 IPython
-ipywidgets
 yfinance
 datetime
