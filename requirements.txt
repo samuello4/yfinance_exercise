@@ -1,0 +1,12 @@
+jupyterlab
+requests
+pandas
+textblob
+plotly-express
+voila
+plotly.graph_objects
+ipywidgets
+IPython.display
+ipywidgets
+yfinance
+datetime
